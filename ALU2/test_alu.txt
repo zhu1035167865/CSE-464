@@ -1,0 +1,17 @@
+00000200 //rst
+00118011 //add
+FF00C0FF //sub
+00FF80FF //add
+00FF1200 //shl 
+FF018300 //add
+018F8090 //add
+01FF1002 //shl
+FF01C0FE //sub
+01FE4200 //nor
+00FFC101 //sub
+FF00C0FF //sub
+00FF1200 //shl
+00FF2200 //load
+xxxxx200 //nothing
+xxxxx200 //nothing
+
